@@ -351,3 +351,8 @@ a  {
 #googlemap {
 	border:0;
 }
+.blank {
+	width:80%;
+	margin-left:20%;
+	height:110px;
+}

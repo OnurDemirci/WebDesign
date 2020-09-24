@@ -6,5 +6,5 @@ https://www.w3schools.com/
 https://www.youtube.com/channel/UCZNZj3mkdCGJfCoKyl4bSYQ
 https://www.brandcrowd.com/logo-design/details/123477
 http://imageslidermaker.com/
-https://www.cssscript.com/css-only-crossfading-background-slideshow/
+
 https://stackoverflow.com/a/45434040/9706109
